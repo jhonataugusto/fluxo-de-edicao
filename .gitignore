@@ -1,0 +1,6 @@
+# Pack de assets de terceiros (~1 GB, não redistribuível). Fica só local; ver ASSETS.md.
+assets/
+# Vídeos de referência (direitos dos autores) e caches
+fluxo-video/perfis/*/referencias/
+__pycache__/
+*.pyc

@@ -1,0 +1,52 @@
+# Fontes (pesquisa de 2026-11-05)
+
+(verificado) = página lida. (resumo) = só o trecho do buscador; trate como indício.
+Lacunas conhecidas: não há breakdown público confiável do estilo LEMMiNO/Fern/Odda/Cellbit/Hoog/Imperial/Cleo Abram — esses ficam como referência estética (analisada no perfil), não como fonte de regra. O YouTube não publica em pixels a área coberta pelo player em 16:9.
+
+## Edição e retenção
+- Documento "How to succeed in MrBeast production" — https://www.alexanderjarvis.com/memo-how-to-succeed-in-mrbeast-production/ (verificado)
+- Murch, Regra dos Seis — https://nofilmschool.com/2016/11/6-rules-good-cutting-according-oscar-winning-editor-walter-murch (verificado)
+- Murch, quando cortar — https://www.premiumbeat.com/blog/when-and-where-to-make-the-cut-inspired-by-walter-murchs-in-the-blink-of-an-eye/ (verificado)
+- J/L cuts — https://filmdaft.com/the-l-cut-and-j-cut-how-film-editors-use-audio-to-control-time/ (verificado)
+- Nate Krieger (Vox) — https://www.pressclubinstitute.org/2026/07/21/vox-video-producer-nate-krieger-on-how-to-create-engaging-visual-journalism/ (verificado)
+- James Cutting, duração de planos — https://news.cornell.edu/node/271563 (verificado)
+- Tempo de leitura — https://www.ssw.com.au/rules/post-production-do-you-give-enough-time-to-read-texts-in-your-videos (verificado)
+- YouTube, momentos-chave de retenção — https://support.google.com/youtube/answer/9314415?hl=en (verificado)
+- 8 erros comuns — https://nofilmschool.com/eight-common-editing-mistakes (verificado)
+- Montagem soviética — https://www.premiumbeat.com/blog/soviet-montage-theory-types (verificado)
+- Nick Nimmin (TechSmith) — https://www.techsmith.com/learn/tutorials/academy/creating-videos-that-engage-viewers-and-keep-them-watching-nick-nimmin/ (verificado)
+- Q&As do LEMMiNO — https://rosetta.to/u/lemmino/topic/filmmaking (verificado, pouco conteúdo)
+- Paddy Galloway, retenção — https://longstories.ai/blog/audience-retention-tips-long-form-videos (resumo, fonte secundária)
+
+## Câmera e profundidade
+- Video Copilot, câmeras no AE — https://www.videocopilot.net/blog/2008/02/after-effects-cameras (verificado)
+- School of Motion, profundidade de campo — https://schoolofmotion.com/blog/depth-of-field-cinema-4d-nuke-after-effects (verificado)
+- Studio Matrx, caminhos de câmera — https://www.studiomatrx.org/students/architectural-visualization-rendering/camera-paths-and-walkthroughs (verificado)
+- Fstoppers, compressão de lente — https://fstoppers.com/architecture/how-lens-compression-and-perspective-distortion-work-251737 (verificado)
+- Noble Desktop, câmeras 3D — https://www.nobledesktop.com/learn/after-effects/intro-to-3d-cameras (verificado)
+- AEJuice, paralaxe — https://aejuice.com/blog/how-to-create-a-parallax-effect-in-after-effects (verificado)
+- Regra dos 180° — https://en.wikipedia.org/wiki/180-degree_rule (verificado)
+- Whip pan — https://nofilmschool.com/how-to-do-a-whip-pan (verificado)
+- Motion blur — https://www.premiumbeat.com/blog/motion-blur-premiere-pro/ (verificado)
+- Multiplano no Fusion (ementa) — https://lowepost.com/courses/visual-effects/3d-vr-360/advanced-multiplaning-in-davinci-resolve-fusion-r47 (verificado)
+- Motion Array, 2.5D — https://blog.motionarray.com/learn/after-effects/animate-flat-2d-images-after-effects/ (resumo)
+- Escala × Z (fórum Adobe) — https://community.adobe.com/t5/after-effects-discussions/expression-linking-size-of-layer-to-camera-s-z-position-to-keep-same-pixel-density/m-p/11834141 (resumo)
+- Influência do ease — https://creativecow.net/forums/thread/easy-ease-adjusting-softness/ (resumo)
+- Pistas de profundidade (NYU) — https://www.cns.nyu.edu/~msl/courses/0022X/slides/sl-depth.pdf (resumo)
+- Kurzgesagt, processo — https://kurzgesagt.org/youtube/ (resumo)
+
+## Texto, olhar e interação
+- EBU R95, áreas seguras — https://tech.ebu.ch/publications/r095 (verificado)
+- YouTube, telas finais — https://support.google.com/youtube/answer/6388789 (verificado)
+- Netflix pt-BR, legendas — https://partnerhelp.netflixstudios.com/hc/en-us/articles/215600497-Portuguese-Brazil-Timed-Text-Style-Guide (verificado)
+- WCAG 2.3.1, flashes — https://www.w3.org/WAI/WCAG22/Understanding/three-flashes-or-below-threshold.html (verificado)
+- Mayer (2020), princípios multimídia — https://ugc.futurelearn.com/uploads/files/7d/d6/7dd6188d-c343-4311-b064-ac98d2c95abc/Multimedia_Principles._R._E._Mayer__2020.pdf (verificado)
+- Guo, Kim & Rubin (2014) — https://www.cs.rochester.edu/hci/pubs/pdfs/edX-MOOC-video-production-and-engagement_LAS-2014.pdf (verificado)
+- Detalhes sedutores — https://inspire.acu.edu.au/articles/seductive-details (verificado)
+- Atenção sincronizada — https://www.sciencedaily.com/releases/2016/03/160322110419.htm (verificado)
+- Eye-trace — https://blog.frame.io/2022/10/03/7-simple-video-editing-tricks/ (verificado)
+- Gesto de apontar (Pi et al.) — https://www.bohrium.com/paper-details/effects-of-the-instructor-s-pointing-gestures-on-learning-performance-in-video-lectures/814528137097379840-7586 (resumo)
+- UX in Motion — https://uxdesign.cc/a-guide-to-motion-design-principles-7f05f10ccd79 (resumo)
+- Material Design, duração e easing — https://m1.material.io/motion/duration-easing.html (resumo)
+- Plano de reação — https://nofilmschool.com/what-are-reaction-shots (resumo)
+- Retenção e quebras de padrão — https://backlinko.com/hub/youtube/retention (resumo)

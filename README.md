@@ -58,7 +58,15 @@ Esqueceu o nome? Digite `/` para ver a lista de skills, ou pergunte ao Claude qu
 | `guias/` | O conhecimento: princípios do fluxo, decisões, análise de referências, ofício de animação, HyperFrames, entrega no programa de edição e o ofício de cada etapa |
 | `modelos/` | Os esqueletos das skills, do perfil e do estado do vídeo |
 
+| `skills/` | Skills extras do meu fluxo: `direcao-de-cena` (enquadramento 2.5D, texto, retenção, checagens visuais) e `motion-design`, `motion-design-critique`, `blender-motion` (MIT, de Adewale/LobzyJay) |
+| `fluxo-video/` | O meu fluxo montado: `montagem.md` (decisões), `ferramentas/` (transcrever, cortar silêncios, analisar referência, ritmo) e `perfis/jonato/` (identidade, estilo de motion e câmera, análises de referência, fontes OFL) |
+| `exemplos/intro-rusdot/` | A intro 3D de teste: cenas do EffectCraft (`lib.jsx` + `etapa_01..07.jsx`) e scripts de som e assets |
+| `ASSETS.md` | Onde fica o pack de efeitos e sons (local, fora do Git) e como usar cada pasta |
+
 Tudo em texto. Leia, mude, adapte.
+
+## Instalar as skills extras
+Copie (ou faça link de) cada pasta de `skills/` para `~/.claude/skills/` (e `~/.codex/skills/` no Codex). O pack de assets fica em `<repo>/assets/`; veja `ASSETS.md`.
 
 ## Licença
 MIT. Use, mude e compartilhe à vontade.
